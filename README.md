@@ -6,7 +6,6 @@
 - 📫 How to reach me: bugalzyn@outlook.com
 - 😄 Pronouns: Life is short, pursue what you love.
 - ⚡ Fun fact: www.jasmines.com.cn [Not loaded]
--->
 
 
 <!---
