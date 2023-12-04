@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning online portfolio strategy, pytorch, mysql and html.
 - 📫 How to reach me: yannanzhong@outlook.com
 - 😄 Pronouns: Life is short, pursue what you love.
-- ⚡ Fun fact: www.marigolds.cn
+- ⚡ Fun fact: www.jasmines.com.cn
 
 
 <!---
