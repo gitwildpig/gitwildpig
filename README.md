@@ -3,9 +3,9 @@
 - 👋 Hi, I’m @jasminesor
 - 👀 I’m interested in python, html, and i also write portfolio strategies.
 - 🌱 I’m currently learning online portfolio strategy, pytorch, mysql and html.
-- 📫 How to reach me: bugalzyn@outlook.com
+- 📫 How to reach me: yannanzhong@outlook.com
 - 😄 Pronouns: Life is short, pursue what you love.
-- ⚡ Fun fact: www.jasmines.com.cn [Not loaded]
+- ⚡ Fun fact: www.marigolds.cn
 
 
 <!---
